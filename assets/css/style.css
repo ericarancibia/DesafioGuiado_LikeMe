@@ -1,0 +1,25 @@
+body {
+    background-image: url(../img/fondo.jpg);
+    background-size: cover;
+    background-repeat: repeat-y;
+    
+}
+
+form {
+    padding: 15px;
+    background: #0d47a1;
+    color: white;
+}
+
+.card-body {
+    background: #e1e2e1;
+}
+
+#creado {
+    background: #002b55;
+}
+
+.card {
+    background: transparent !important;
+    border: none !important;
+}
